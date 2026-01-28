@@ -1,3 +1,16 @@
+"""
+Special Thanks & Credits:
+
+We would like to sincerely thank THE following teammates
+for their collaboration, knowledge sharing, and continuous motivation:
+
+- CRAKA10100
+- 493nt47
+- Mundo
+
+Thank you for the teamwork, learning spirit, and Red Team mindset.
+Respect 🤝🔥
+"""
 # asa-rbcd-framework-
 Script ASA configuration automation RBCD attack
 # ASA RBCD Red Team Framework
