@@ -7,7 +7,7 @@ for **authorized penetration testing and Active Directory security assessments**
 
 ## ⚠️ Legal Disclaimer
 
-This tool is provided for **EDUCATIONAL AND AUTHORIZED SECURITY TESTING PURPOSES ONLY**.
+This tool is provided for ** AUTHORIZED SECURITY TESTING PURPOSES ONLY**.
 
 Any unauthorized use against systems you do not own or have explicit permission to test is **ILLEGAL**.
 
